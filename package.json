@@ -1,0 +1,19 @@
+{
+  "name": "react-e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EivindDelFierro/React-E.git"
+  },
+  "author": "Eivind Del Fierro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EivindDelFierro/React-E/issues"
+  },
+  "homepage": "https://github.com/EivindDelFierro/React-E#readme"
+}
